@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_ads.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.14488348530901723" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_practical1.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/activity_practical10.xml" value="0.21557971014492755" />
+        <entry key="app/src/main/res/layout/activity_practical11.xml" value="0.21557971014492755" />
+        <entry key="app/src/main/res/layout/activity_practical111.xml" value="0.21557971014492755" />
+        <entry key="app/src/main/res/layout/activity_practical112.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_practical114.xml" value="0.21557971014492755" />
+        <entry key="app/src/main/res/layout/activity_practical12.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_practical121.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_practical13.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_practical14.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_practical141.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_practical142.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_practical15.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/activity_practical2.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/activity_practical21.xml" value="0.22644927536231885" />
+        <entry key="app/src/main/res/layout/activity_practical22.xml" value="0.22282608695652173" />
+        <entry key="app/src/main/res/layout/activity_practical3.xml" value="0.22282608695652173" />
+        <entry key="app/src/main/res/layout/activity_practical31.xml" value="0.22282608695652173" />
+        <entry key="app/src/main/res/layout/activity_practical32.xml" value="0.22282608695652173" />
+        <entry key="app/src/main/res/layout/activity_practical33.xml" value="0.22282608695652173" />
+        <entry key="app/src/main/res/layout/activity_practical4.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical41.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical42.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical5.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical6.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_practical7.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/layout/activity_practical8.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical81.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical82.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical83.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical9.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical91.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical92.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/activity_practical_13.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2222222222222222" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

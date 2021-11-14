@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MCA WMT Practicals</string>
+
+    <string-array name="cities">
+        <item>Mumbai</item>
+        <item>London</item>
+        <item>Manchester</item>
+        <item>Los Angeles</item>
+        <item>Perth</item>
+        <item>Tokyo</item>
+        <item>Sydney</item>
+        <item>Dubai</item>
+        <item>Moscow</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+        <item>Chennai</item>
+        <item>Delhi</item>
+        <item>Dallas</item>
+        <item>Toronto</item>
+    </string-array>
+</resources>

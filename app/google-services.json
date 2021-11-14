@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661998877018",
+    "project_id": "mca-wmt-practicals",
+    "storage_bucket": "mca-wmt-practicals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661998877018:android:a89a7c4a9accabc7021b63",
+        "android_client_info": {
+          "package_name": "com.imcostmca.wmtpracticals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661998877018-ct0dpr6bmibd3eeu7flaul8nfvrr47on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfC6XTXhYjBvdXBFb26fe7husEnKlYFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661998877018-ct0dpr6bmibd3eeu7flaul8nfvrr47on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

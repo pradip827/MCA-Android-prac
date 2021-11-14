@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeScreen">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btnPractical1"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Practical 1"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical2"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical1"
+                android:layout_margin="10dp"
+                android:text="Practical 2"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical3"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical2"
+                android:layout_margin="10dp"
+                android:text="Practical 3"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical4"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical3"
+                android:layout_margin="10dp"
+                android:text="Practical 4"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical5"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical4"
+                android:layout_margin="10dp"
+                android:text="Practical 5"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical6"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical5"
+                android:layout_margin="10dp"
+                android:text="Practical 6"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical7"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical6"
+                android:layout_margin="10dp"
+                android:text="Practical 7"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical8"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical7"
+                android:layout_margin="10dp"
+                android:text="Practical 8"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical9"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical8"
+                android:layout_margin="10dp"
+                android:text="Practical 9"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical10"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical9"
+                android:layout_margin="10dp"
+                android:text="Practical 10"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical11"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical10"
+                android:layout_margin="10dp"
+                android:text="Practical 11"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical12"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical11"
+                android:layout_margin="10dp"
+                android:text="Practical 12"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical13"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical12"
+                android:layout_margin="10dp"
+                android:text="Practical 13"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/btnPractical14"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_below="@id/btnPractical13"
+                android:layout_margin="10dp"
+                android:text="Practical 14"
+                android:textSize="20dp" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
