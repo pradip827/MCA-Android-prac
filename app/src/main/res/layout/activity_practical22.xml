@@ -8,159 +8,190 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <EditText
-            android:textSize="40dp"
-            android:editable="false"
-            android:clickable="false"
-            android:id="@+id/txtInput"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="80dp"
-            android:cursorVisible="true" />
+            android:layout_height="240dp"
+            android:background="@drawable/corner_border"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum=".3">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center"
+
+                android:background="@drawable/logo1" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Welcome Practical no 2.2"
+            android:textColor="@color/green"
+            android:textSize="18dp" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="vertical">
 
-            <Button
-                android:id="@+id/btn7"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="7"
-                android:textSize="40dp" />
+            <EditText
+                android:id="@+id/txtInput"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:clickable="false"
+                android:cursorVisible="true"
+                android:editable="false"
+                android:textSize="30dp" />
 
-            <Button
-                android:id="@+id/btn8"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="8"
-                android:textSize="40dp" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
-            <Button
-                android:id="@+id/btn9"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="9"
-                android:textSize="40dp" />
+                <Button
+                    android:id="@+id/btn7"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="7"
+                    android:textSize="40dp" />
 
-            <Button
-                android:id="@+id/btnDivide"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="/"
-                android:textSize="40dp" />
+                <Button
+                    android:id="@+id/btn8"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="8"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn9"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="9"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btnDivide"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="/"
+                    android:textSize="40dp" />
+            </LinearLayout>
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:columnCount="4">
+
+                <Button
+                    android:id="@+id/btn4"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="4"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn5"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="5"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn6"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="6"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btnMultiplication"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="X"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn1"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="1"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn2"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="2"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn3"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="3"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btnSubtract"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="-"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btn0"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="0"
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btnDec"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="."
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btnEqual"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="="
+                    android:textSize="40dp" />
+
+                <Button
+                    android:id="@+id/btnAddition"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:text="+"
+                    android:textSize="40dp" />
+            </GridLayout>
+
+
         </LinearLayout>
-
-        <GridLayout
-            android:columnCount="4"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <Button
-                android:id="@+id/btn4"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="4"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btn5"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="5"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btn6"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="6"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btnMultiplication"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="X"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btn1"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="1"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btn2"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="2"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btn3"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="3"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btnSubtract"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="-"
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btn0"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="0"
-                android:textSize="40dp" />
-            <Button
-                android:id="@+id/btnDec"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="."
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btnEqual"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="="
-                android:textSize="40dp" />
-
-            <Button
-                android:id="@+id/btnAddition"
-                android:layout_width="80dp"
-                android:layout_height="80dp"
-                android:layout_margin="10dp"
-                android:text="+"
-                android:textSize="40dp" />
-        </GridLayout>
-
-
-
     </LinearLayout>
-
 </RelativeLayout>

@@ -64,7 +64,10 @@
                     android:layout_width="match_parent"
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical1"
-                    android:layout_margin="10dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="10dp"
                     android:background="@color/purple_500"
                     android:text="Practical 2"
                     android:textSize="20dp" />
@@ -74,7 +77,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical2"
-                    android:layout_margin="10dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@color/purple_200"
                     android:text="Practical 3"
                     android:textSize="20dp" />
 
@@ -84,6 +91,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical3"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_500"
                     android:text="Practical 4"
                     android:textSize="20dp" />
 
@@ -92,7 +100,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical4"
-                    android:layout_margin="10dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@color/purple_200"
                     android:text="Practical 5"
                     android:textSize="20dp" />
 
@@ -101,7 +113,11 @@
                     android:layout_width="match_parent"
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical5"
-                    android:layout_margin="10dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@color/purple_500"
                     android:text="Practical 6"
                     android:textSize="20dp" />
 
@@ -111,6 +127,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical6"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_200"
                     android:text="Practical 7"
                     android:textSize="20dp" />
 
@@ -120,6 +137,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical7"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_500"
                     android:text="Practical 8"
                     android:textSize="20dp" />
 
@@ -129,6 +147,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical8"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_200"
                     android:text="Practical 9"
                     android:textSize="20dp" />
 
@@ -138,6 +157,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical9"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_500"
                     android:text="Practical 10"
                     android:textSize="20dp" />
 
@@ -147,6 +167,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical10"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_200"
                     android:text="Practical 11"
                     android:textSize="20dp" />
 
@@ -156,6 +177,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical11"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_500"
                     android:text="Practical 12"
                     android:textSize="20dp" />
 
@@ -165,6 +187,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical12"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_200"
                     android:text="Practical 13"
                     android:textSize="20dp" />
 
@@ -174,6 +197,7 @@
                     android:layout_height="80dp"
                     android:layout_below="@id/btnPractical13"
                     android:layout_margin="10dp"
+                    android:background="@color/purple_500"
                     android:text="Practical 14"
                     android:textSize="20dp" />
             </RelativeLayout>

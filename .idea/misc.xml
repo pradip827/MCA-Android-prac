@@ -4,8 +4,46 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/drawable/corner_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/drawable/round_card.xml" value="0.2203125" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/drawable/show_pw.xml" value="0.2203125" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_ads.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical10.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical11.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical111.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical112.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical114.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical12.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical121.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical13.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical14.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical141.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical142.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical15.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical21.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical22.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical31.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical32.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical33.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical41.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical42.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical8.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical81.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical82.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical83.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical9.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical91.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical92.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_practical_13.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/activity_ads.xml" value="0.2078804347826087" />
         <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.14488348530901723" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.21920289855072464" />

@@ -6,21 +6,53 @@
     android:layout_height="match_parent"
     tools:context=".Practical_6">
 
-    <Switch
-        android:id="@+id/switchWifi"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Wi-Fi"
-        android:textColor="@color/black"
-        android:textSize="30dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-    <Switch
-        android:id="@+id/switchBluetooth"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/switchWifi"
-        android:text="Bluetooth"
-        android:textColor="@color/black"
-        android:textSize="30dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:background="@drawable/corner_border"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum=".3">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="140dp"
+                android:layout_gravity="center"
+
+                android:background="@drawable/logo1" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Welcome Practical no 6"
+            android:textColor="@color/green"
+            android:textSize="18dp" />
+
+        <Switch
+            android:id="@+id/switchWifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wi-Fi"
+            android:textColor="@color/black"
+            android:textSize="30dp" />
+
+        <Switch
+            android:id="@+id/switchBluetooth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/switchWifi"
+            android:text="Bluetooth"
+            android:textColor="@color/black"
+            android:textSize="30dp" />
+    </LinearLayout>
 
 </RelativeLayout>

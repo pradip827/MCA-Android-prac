@@ -8,6 +8,32 @@
     android:orientation="vertical"
     tools:context=".Practical_1">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:background="@drawable/corner_border"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum=".3">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+
+            android:background="@drawable/logo1" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Welcome Practical no 1"
+        android:textColor="@color/green"
+        android:textSize="18dp" />
+
     <Button
         android:id="@+id/btnPractical1_1"
         android:layout_width="match_parent"
