@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/drawable/corner_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
+        <entry key="..\:/Users/chauh/Documents/GitHub/MCA-Android-prac/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="app/src/main/res/layout/activity_ads.xml" value="0.2078804347826087" />
         <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.14488348530901723" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.21920289855072464" />

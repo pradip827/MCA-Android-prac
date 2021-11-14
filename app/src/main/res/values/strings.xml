@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MCA WMT Practicals</string>
+    <string name="app_name">MCA 08</string>
 
     <string-array name="cities">
         <item>Mumbai</item>
